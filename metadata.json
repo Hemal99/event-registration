@@ -1,0 +1,8 @@
+
+{
+  "name": "Event Registration & QR Verification",
+  "description": "A web dashboard to upload attendee lists from an Excel file, view the data, and send email tickets with QR codes for event verification.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
